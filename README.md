@@ -7,7 +7,7 @@
 </p>
 <a href="https://www.github.com/baodhg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/baodhg?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
-### Badges
+![](https://komarev.com/ghpvc/?username=baodhg&label=Profile+views&style=flat-square)
 
 <b>My GitHub Stats</b>
 
