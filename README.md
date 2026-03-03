@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -57,7 +57,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="36" width="36" alt="git logo"  />
 </p>
 
-<br>
+<br> -->
 
 <p align="center">
   <a href="http://www.github.com/baodhg">
