@@ -62,29 +62,11 @@
 <p align="center">
   <a href="https://baodhg.id.vn/?utm_source=github&utm_medium=profile&utm_campaign=room">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://baodhg.id.vn/scene/poster-night.webp" />
-      <source media="(prefers-color-scheme: light)" srcset="https://baodhg.id.vn/scene/poster-day.webp" />
-      <img src="https://baodhg.id.vn/scene/poster-night.webp" width="100%" alt="A desk in a neon room, built in 3D. Click to walk in." />
+      <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night-still.webp" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-day-still.webp" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night.webp" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-day.webp" />
+      <img src="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night.webp" width="100%" alt="My GitHub numbers, live inside a 3D desk room: contributions, streak, pull requests and lines of code. Click to walk in." />
     </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://baodhg.id.vn/?utm_source=github&utm_medium=profile&utm_campaign=room"><b>baodhg.id.vn</b></a> · a desk in a neon room, modelled and light-baked in Blender, rendered live with three.js
-</p>
-
-<p align="center">
-  <a href="https://baodhg.id.vn/?utm_source=github&utm_medium=profile&utm_campaign=stats-card">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.baodhg.id.vn/v1/analytics/github.svg?theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.baodhg.id.vn/v1/analytics/github.svg?theme=light" />
-      <img src="https://api.baodhg.id.vn/v1/analytics/github.svg?theme=dark" alt="GitHub profile views and portfolio visitors" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://www.github.com/baodhg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=baodhg&stroke=3382ed&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=3382ed&currStreakLabel=ec4899&sideNums=3382ed&sideLabels=3382ed&dates=3382ed" />
   </a>
 </p>
