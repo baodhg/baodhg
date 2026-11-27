@@ -62,11 +62,11 @@
 <p align="center">
   <a href="https://baodhg.id.vn/?utm_source=github&utm_medium=profile&utm_campaign=room">
     <picture>
-      <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night-still.webp" />
-      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-day-still.webp" />
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night.webp" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baodhg/baodhg/room/room-day.webp" />
-      <img src="https://raw.githubusercontent.com/baodhg/baodhg/room/room-night.webp" width="100%" alt="My GitHub numbers, live inside a 3D desk room: contributions, streak, pull requests and lines of code. Click to walk in." />
+      <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://api.baodhg.id.vn/v1/analytics/room/room-night-still.webp?from=github" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://api.baodhg.id.vn/v1/analytics/room/room-day-still.webp?from=github" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.baodhg.id.vn/v1/analytics/room/room-night.webp?from=github" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.baodhg.id.vn/v1/analytics/room/room-day.webp?from=github" />
+      <img src="https://api.baodhg.id.vn/v1/analytics/room/room-night.webp?from=github" width="100%" alt="My GitHub numbers on three screens in a 3D desk room: contributions, streak, pull requests, lines of code and the latest commits. Click to walk in." />
     </picture>
   </a>
 </p>
